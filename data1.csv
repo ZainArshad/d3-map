@@ -1,0 +1,142 @@
+CITY,STATE,KMA,CITY_STATE,Available_Loads,lat,lon
+Allentown,PA,ABE,"Allentown, PA",780,40.602729,-75.470955
+Albuquerque,NM,ABQ,"Albuquerque, NM",40,35.0936,-106.6423
+Albany,NY,ALB,"Albany, NY",210,42.6525,-73.7566
+Amarillo,TX,AMA,"Amarillo, TX",37,35.203238,-101.842052
+Atlanta,GA,ATL,"Atlanta, GA",1434,33.749788,-84.31685
+Augusta,ME,AUG,"Augusta, ME",32,44.323228,-69.766548
+Austin,TX,AUS,"Austin, TX",42,30.210692,-97.942749
+Hartford,CT,BDL,"Hartford, CT",198,41.790498,-72.865323
+Birmingham,AL,BHM,"Birmingham, AL",131,33.519,-86.8014
+Billings,MT,BIL,"Billings, MT",1,45.774489,-108.500452
+Bloomington,IL,BMI,"Bloomington, IL",101,40.478295,-88.989318
+Nashville,TN,BNA,"Nashville, TN",467,36.167028,-86.778441
+Bristol,NH,BNH,"Bristol, NH",59,43.611994,-71.750664
+Boston,MA,BOS,"Boston, MA",425,42.375,-71.039722
+Buffalo,NY,BUF,"Buffalo, NY",218,42.896659,-78.884575
+Bowling Green,KY,BWG,"Bowling Green, KY",163,37.007874,-86.455891
+Baltimore,MD,BWI,"Baltimore, MD",341,39.2595,-76.7091
+Columbia,SC,CAE,"Columbia, SC",259,33.995024,-81.088836
+Cape Girardeau,MO,CGI,"Cape Girardeau, MO",106,37.31685,-89.545861
+Chattanooga,TN,CHA,"Chattanooga, TN",346,35.0455,-85.3081
+Chicago,IL,CHI,"Chicago, IL",775,41.885847,-87.618123
+N Charleston,SC,CHS,"N Charleston, SC",112,32.851206,-79.976442
+Cedar Rapids,IA,CID,"Cedar Rapids, IA",61,41.9743,-91.655382
+Cleveland,OH,CLE,"Cleveland, OH",886,41.4918,-81.6757
+Charlotte,NC,CLT,"Charlotte, NC",787,35.2269,-80.8433
+Columbus,OH,CMH,"Columbus, OH",1000,40.1444,-82.9789
+Charleston,WV,CRW,"Charleston, WV",89,38.349,-81.630606
+Cincinnati,OH,CVG,"Cincinnati, OH",260,39.091293,-84.277383
+Dallas,TX,DAL,"Dallas, TX",1402,32.965736,-96.882464
+Dubuque,IA,DBQ,"Dubuque, IA",37,42.33207,-90.863032
+Alexandria,VA,DCA,"Alexandria, VA",9,38.820042,-77.058901
+Decatur,AL,DCU,"Decatur, AL",460,34.589599,-86.98868
+Denver,CO,DEN,"Denver, CO",167,39.7507,-104.989
+Duluth,MN,DLH,"Duluth, MN",28,47.094431,-91.846731
+Des Moines,IA,DSM,"Des Moines, IA",156,40.832081,-91.179894
+Detroit,MI,DTW,"Detroit, MI",170,42.347429,-83.060398
+Eau Claire,WI,EAU,"Eau Claire, WI",278,44.802142,-91.43825
+Elmira,NY,ELM,"Elmira, NY",49,42.100769,-76.811977
+El Paso,TX,ELP,"El Paso, TX",77,31.990718,-106.597625
+Erie,PA,ERI,"Erie, PA",87,41.916222,-80.308528
+Evansville,IN,EVV,"Evansville, IN",204,37.9746,-87.5674
+Elizabeth,NJ,EWR,"Elizabeth, NJ",843,40.67169,-74.204335
+Fargo,ND,FAR,"Fargo, ND",26,46.900878,-96.793577
+Fresno,CA,FAT,"Fresno, CA",296,37.072635,-119.457202
+Flagstaff,AZ,FLG,"Flagstaff, AZ",53,35.185911,-111.661979
+Sioux Falls,SD,FSD,"Sioux Falls, SD",30,43.488,-96.7343
+Ft Worth,TX,FTW,"Ft Worth, TX",625,32.7469,-97.3268
+Ft Wayne,IN,FWA,"Ft Wayne, IN",142,41.0716,-85.1367
+Spokane,WA,GEG,"Spokane, WA",26,47.919178,-117.29209
+Grand Jct,CO,GJT,"Grand Jct, CO",2,40.053765,-106.225492
+Green Bay,WI,GRB,"Green Bay, WI",240,44.485313,-88.016868
+Grand Rapids,MI,GRR,"Grand Rapids, MI",281,42.9704,-85.6738
+Greensboro,NC,GSO,"Greensboro, NC",383,36.0726,-79.792
+Greenville,SC,GSP,"Greenville, SC",590,35.06537,-82.609256
+Green River,WY,GVW,"Green River, WY",1,41.51959,-109.471445
+Gary,IN,GYY,"Gary, IN",219,41.593333,-87.346389
+Houston,TX,HOU,"Houston, TX",981,29.596156,-95.458709
+Huntington,WV,HTS,"Huntington, WV",51,38.409726,-82.442348
+Terre Haute,IN,HUF,"Terre Haute, IN",67,39.4667,-87.4068
+Hutchinson,KS,HUT,"Hutchinson, KS",159,38.054995,-97.931052
+Wilmington,NC,ILM,"Wilmington, NC",30,34.225304,-77.937856
+Indianapolis,IN,IND,"Indianapolis, IN",788,39.938417,-86.13894
+Jackson,MS,JAN,"Jackson, MS",151,30.411389,-88.534444
+Jacksonville,FL,JAX,"Jacksonville, FL",229,30.3163,-81.4175
+Jefferson City,MO,JEF,"Jefferson City, MO",70,38.546212,-92.152462
+Brooklyn,NY,JFK,"Brooklyn, NY",33,40.694021,-73.99034
+Joplin,MO,JLN,"Joplin, MO",285,37.096858,-94.505144
+Joliet,IL,JOT,"Joliet, IL",1053,41.527154,-88.08241
+Lakeland,FL,LAL,"Lakeland, FL",466,28.038134,-81.939153
+Las Vegas,NV,LAS,"Las Vegas, NV",65,36.172082,-115.122366
+Los Angeles,CA,LAX,"Los Angeles, CA",909,34.132389,-118.026374
+Lubbock,TX,LBB,"Lubbock, TX",72,33.650376,-101.678579
+North Platte,NE,LBF,"North Platte, NE",13,41.132595,-100.774631
+Lexington,KY,LEX,"Lexington, KY",399,42.4558,-71.2193
+Little Rock,AR,LIT,"Little Rock, AR",315,34.766974,-92.265376
+Laredo,TX,LRD,"Laredo, TX",293,27.515538,-99.498579
+Saginaw,MI,MBS,"Saginaw, MI",11,43.264868,-83.790287
+Kansas City,MO,MCI,"Kansas City, MO",485,39.163189,-94.569882
+Macon,GA,MCN,"Macon, GA",135,32.84386,-83.598686
+Harrisburg,PA,MDT,"Harrisburg, PA",1089,40.261767,-76.883079
+Memphis,TN,MEM,"Memphis, TN",755,35.0337,-89.9343
+McAllen,TX,MFE,"McAllen, TX",124,26.21544,-98.235871
+Medford,OR,MFR,"Medford, OR",76,42.319293,-122.887011
+Montgomery,AL,MGM,"Montgomery, AL",147,32.019397,-86.129246
+Miami,FL,MIA,"Miami, FL",159,25.779,-80.1982
+Milwaukee,WI,MKE,"Milwaukee, WI",320,42.937293,-87.994277
+Rock Island,IL,MLI,"Rock Island, IL",112,41.518333,-90.356944
+Mobile,AL,MOB,"Mobile, AL",186,31.006817,-88.04274
+Madison,WI,MSN,"Madison, WI",63,43.073,-89.3817
+Missoula,MT,MSO,"Missoula, MT",7,46.860138,-113.746254
+Minneapolis,MN,MSP,"Minneapolis, MN",242,45.049582,-93.246095
+New Orleans,LA,MSY,"New Orleans, LA",156,29.963071,-90.160953
+Oklahoma City,OK,OKC,"Oklahoma City, OK",139,35.3337,-97.4922
+Omaha,NE,OMA,"Omaha, NE",221,41.261,-95.9376
+Ontario,CA,ONT,"Ontario, CA",1369,34.0631,-117.6197
+Norfolk,VA,ORF,"Norfolk, VA",344,36.8466,-76.2855
+Pendleton,OR,PDT,"Pendleton, OR",44,45.660535,-118.783104
+Portland,OR,PDX,"Portland, OR",115,45.442919,-122.615092
+Philadelphia,PA,PHL,"Philadelphia, PA",604,40.722728,-76.11348
+Phoenix,AZ,PHX,"Phoenix, AZ",430,40.126704,-75.527192
+Pittsburgh,PA,PIT,"Pittsburgh, PA",378,40.474536,-79.952524
+Rapid City,SD,RAP,"Rapid City, SD",5,44.077041,-103.200259
+Raleigh,NC,RDU,"Raleigh, NC",346,46.335236,-101.282651
+Rockford,IL,RFD,"Rockford, IL",133,42.292233,-89.116118
+Richmond,VA,RIC,"Richmond, VA",407,37.453158,-77.469798
+Reno,NV,RNO,"Reno, NV",140,39.526812,-119.811275
+Roanoke,VA,ROA,"Roanoke, VA",232,37.206793,-80.145501
+Rochester,NY,ROC,"Rochester, NY",148,43.112808,-77.490596
+San Diego,CA,SAN,"San Diego, CA",88,32.828161,-116.754328
+San Antonio,TX,SAT,"San Antonio, TX",165,29.468525,-98.526352
+Savannah,GA,SAV,"Savannah, GA",610,32.067631,-81.102394
+South Bend,IN,SBN,"South Bend, IN",108,41.672699,-86.253489
+Stockton,CA,SCK,"Stockton, CA",768,37.958,-121.2876
+Louisville,KY,SDF,"Louisville, KY",307,39.978942,-105.145557
+Seattle,WA,SEA,"Seattle, WA",181,47.611435,-122.330456
+San Francisco,CA,SFO,"San Francisco, CA",164,37.775,-122.4183
+Shreveport,LA,SHV,"Shreveport, LA",91,32.503743,-93.748696
+Salt Lake City,UT,SLC,"Salt Lake City, UT",360,40.564614,-112.097718
+Springfield,MA,SPR,"Springfield, MA",79,42.115066,-72.641109
+St Cloud,MN,STC,"St Cloud, MN",36,45.552113,-94.128447
+St Louis,MO,STL,"St Louis, MO",448,38.503611,-90.675833
+Syracuse,NY,SYR,"Syracuse, NY",96,43.073359,-76.05578
+Taylorville,IL,TAZ,"Taylorville, IL",55,39.554516,-89.313357
+Tallahassee,FL,THL,"Tallahassee, FL",27,30.428563,-84.259337
+Tifton,GA,TMA,"Tifton, GA",168,31.450278,-83.508611
+Toledo,OH,TOL,"Toledo, OH",418,42.007696,-92.566206
+Tulsa,OK,TUL,"Tulsa, OK",202,35.917291,-95.872895
+Tucson,AZ,TUS,"Tucson, AZ",16,32.213873,-110.969445
+Twin Falls,ID,TWF,"Twin Falls, ID",60,42.600763,-114.782545
+Texarkana,TX,TXK,"Texarkana, TX",43,33.407371,-94.118245
+Knoxville,TN,TYS,"Knoxville, TN",336,35.9609,-83.9189
+Quincy,IL,UIN,"Quincy, IL",20,39.930701,-91.376284
+Winchester,VA,WGO,"Winchester, VA",465,39.185803,-78.182697
+Fayetteville,AR,XNA,"Fayetteville, AR",207,36.052045,-94.153395
+Ottawa,ON,YOW,"Ottawa, ON",12,36.779616,-94.700239
+Regina,SK,YQR,"Regina, SK",2,36.20283,-107.071932
+Montreal,PQ,YUL,"Montreal, PQ",61,46.425736,-90.244195
+Vancouver,BC,YVR,"Vancouver, BC",24,45.64183,-122.68014
+Prince George,BC,YXS,"Prince George, BC",14,38.671992,-77.016217
+London,ON,YXU,"London, ON",102,41.62629,-72.077499
+Toronto,ON,YYZ,"Toronto, ON",148,37.795343,-95.936818
